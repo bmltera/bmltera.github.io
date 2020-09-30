@@ -7,8 +7,8 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Bill Li
-  avatar: bio-photo.jpg
-  bio: "Bill Li's Website"
+  avatar: squarebio.jpg
+  bio: "My Portfolio"
   email: billmli88@gmail.com
   # Do not include the @ symbol in your Twitter username
   #twitter: laderast
