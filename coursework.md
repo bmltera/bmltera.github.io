@@ -2,5 +2,6 @@
 layout: page
 title: Coursework
 ---
-
-Text for your page goes here.
++ CS146 - Data Structures and Algorithms
++ CS151 - Object Oriented Design
++ CS47 - Computer Systems
