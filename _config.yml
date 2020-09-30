@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Bill Li's Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,10 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Bill Li
   avatar: squarebio.jpg
-  bio: "My Portfolio"
+  bio: "Second year computer science student at San Jose State University."
   email: billmli88@gmail.com
   # Do not include the @ symbol in your Twitter username
-  #twitter: laderast
+  #twitter: 
   linkedin: bmltera
   github: bmltera
   orcid: # ID Number (ex. 0000-0000-0000-0000)
@@ -42,7 +42,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#a2ff64'
+highlight-color: '#ff9900'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
