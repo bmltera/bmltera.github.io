@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.956fad23.chunk.css",
+    "main.js": "/home/static/js/main.fc85657e.chunk.js",
+    "main.js.map": "/home/static/js/main.fc85657e.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.6d125ced.chunk.js": "/home/static/js/2.6d125ced.chunk.js",
+    "static/js/2.6d125ced.chunk.js.map": "/home/static/js/2.6d125ced.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.a06396c3481e617be70cf519a1a1365a.js": "/home/precache-manifest.a06396c3481e617be70cf519a1a1365a.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.6d125ced.chunk.js.LICENSE.txt": "/home/static/js/2.6d125ced.chunk.js.LICENSE.txt",
+    "static/media/bill.jpg": "/home/static/media/bill.ced95a22.jpg",
+    "static/media/ibm.png": "/home/static/media/ibm.2e3a086e.png",
+    "static/media/resume.pdf": "/home/static/media/resume.c2223018.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.6d125ced.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.fc85657e.chunk.js"
+  ]
+}
