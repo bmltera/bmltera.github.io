@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/bill.jpg"),
   imageSize: 350,
   message:
-    "My name is Bill Li. I’m a third year student at San Jose State University studing Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering.",
+    "My name is Bill Li. I’m a third year student at San Jose State University studying Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering.",
   resume: "https://docs.google.com/document/d/1WiKfXKb-G7sFeysDDcqWNxT1lmSOsaETLTIN-6j9c5o/edit?usp=sharing",
 };
 
